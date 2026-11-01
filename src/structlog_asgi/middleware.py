@@ -21,6 +21,7 @@ SENSITIVE_HEADERS_DEFAULT = {
     "x-api-key",
     "x-auth-token",
     "x-forwarded-for",
+    "x-forwarded-proto",
 }
 
 
